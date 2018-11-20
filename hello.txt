@@ -1,7 +1,4 @@
 hello git!
 
-this is testing
-
 this is master
-
 Thank you~~~
